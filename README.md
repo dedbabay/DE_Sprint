@@ -1,4 +1,5 @@
 personal_data {
     surname: 'Abdullaev',
-    hobby: 'clay shooting'
+    hobby: 'clay shooting',
+    education: 'higher'
 }
